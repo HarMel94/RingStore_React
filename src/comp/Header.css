@@ -1,0 +1,39 @@
+.header{
+   position: absolute;
+   left: 320px;
+}
+.inputBody{
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    height: 50px;    
+    background: #ffffff;
+}
+
+.input{
+    position: absolute;
+    width: 320px;
+    height: 25px;
+    margin-top: 11px;
+    background: #E8EAEB;
+    border-radius: 25px;
+}
+
+.input::-webkit-input-placeholder{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    padding:5px;    
+}
+
+.inputs{
+    position: absolute;
+    top:10px;
+    right:940px;
+}
+
+

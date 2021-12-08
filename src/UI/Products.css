@@ -1,0 +1,32 @@
+.card{
+    position: absolute;
+    top: 215px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card_conteiner{
+    margin:0 10px;
+    width: 163px;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: #FFFFFF;}
+
+.image_conteiner{
+    margin:5px;
+    background-color: #FFFFFF;
+}.image_conteiner img{
+    overflow: hidden;
+    height: 100px;
+}
+
+.card_title{
+    background-color: #FFFFFF;
+    margin: 7px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card_title label{
+    background-color: #FFFFFF;
+}
